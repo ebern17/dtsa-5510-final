@@ -2,6 +2,4 @@ This repository houses the jupyter notebook I created and data necessary to run 
 
 DTSA_5510_Final.ipynb contains the code for the analysis and modeling
 
-Data located here: https://www.kaggle.com/datasets/vivmankar/physics-vs-chemistry-vs-biology
-
 Citation: Physics vs Chemistry vs Biology. (2022) Kaggle. https://www.kaggle.com/datasets/vivmankar/physics-vs-chemistry-vs-biology/data
